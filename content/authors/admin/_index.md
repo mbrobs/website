@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Morgan Broberg
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Morgan
+last_name: Broberg
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Civil Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Arkansas
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
