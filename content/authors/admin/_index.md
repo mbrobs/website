@@ -18,12 +18,12 @@ organizations:
     url: 'https://civil-engineering.uark.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research on developing sustainable, robust, and resilient infrastructure solutions. To this end, I investigate the behavior, analysis, and design of new and existing structures subjected to natural and manmade hazards including earthquake, wind, blast, and impact loads.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Sustainable and robust infrastucture
+  - Earthquake and wind engineering
+  - Blast and impact resistant structures
 
 education:
   courses:
@@ -57,7 +57,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -65,6 +65,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Morgan Broberg is an Assistant Professor in Civil Engineering at the University of Arkansas. Before joining U of A, she received her B.S. from LeTourneau University (Texas) and her Ph.D. from Purdue University (Indiana). Her research focuses on developing sustainable, robust, and resilient infrastructure solutions. To this end, she investigates the behavior, analysis, and design of new and existing structures subjected to natural and manmade hazards including earthquake, wind, blast, and impact loads.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Broberg designs structural systems, conducts large-scale tests, and develops computational modeling approaches for many innovative solutions. She works with public and private sponsors to design, validate, and implement SC technologies for seismic and protective structure applications. Her work has resulted in several updates to codes and standards including ASCE 7, AISC 360, and AISC 341. Outside of the office, Dr. Broberg enjoys many hobbies such as getting outdoors, board games, puzzles, and bowling.  
