@@ -23,17 +23,4 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
-
-# Display name
-title: Morgan Broberg
-
-# Full Name (for SEO)
-first_name: Morgan
-last_name: Broberg
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Assistant Professor of Civil Engineering
 ---
