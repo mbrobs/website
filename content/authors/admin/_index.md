@@ -62,7 +62,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Dr. Morgan Broberg is an Assistant Professor in Civil Engineering at the University of Arkansas. Before joining U of A, she received her B.S. from LeTourneau University (Texas) and her Ph.D. from Purdue University (Indiana). Her research focuses on developing sustainable, robust, and resilient infrastructure solutions. To this end, she investigates the behavior, analysis, and design of new and existing structures subjected to natural and manmade hazards including earthquake, wind, blast, and impact loads.  
