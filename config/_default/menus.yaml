@@ -8,13 +8,13 @@ main:
     url: tour
     weight: 10
   - name: Teaching
-    url: post
+    url: event
     weight: 20
   - name: People
     url: people
     weight: 30
   - name: News
-    url: event
+    url: post
     weight: 40
   - name: Publications
     url: publication
